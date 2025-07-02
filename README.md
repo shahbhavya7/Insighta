@@ -2,7 +2,7 @@
 
 Insighta is a Streamlit-powered web app that converts YouTube videos into clean, structured, and concise **notes** using Google Gemini. Whether it's a lecture, tutorial, or talk — Insighta extracts the transcript and summarizes the content into clear bullet points.
 
----
+
 
 ## 🚀 Features
 
@@ -13,7 +13,7 @@ Insighta is a Streamlit-powered web app that converts YouTube videos into clean,
 - 📋 Get concise, readable notes under 250 words
 - 🌐 Deployable on Streamlit Cloud
 
----
+
 
 ## 🖼️ Demo
 
@@ -21,7 +21,7 @@ Insighta is a Streamlit-powered web app that converts YouTube videos into clean,
 <img src="public/Screenshot 2025-07-02 121221.png" width="100%" alt="Insighta Demo">
 <img src="public/Screenshot 2025-07-02 121244.png" width="100%" alt="Insighta Demo">
 
----
+
 
 ## 🧰 Tech Stack
 
@@ -33,7 +33,7 @@ Insighta is a Streamlit-powered web app that converts YouTube videos into clean,
 | Env Mgmt     | `python-dotenv`            |
 | Deployment   | Streamlit Cloud            |
 
----
+
 
 ## 📦 Installation
 
@@ -58,7 +58,7 @@ Insighta is a Streamlit-powered web app that converts YouTube videos into clean,
 5. **Open in browser**
    - Go to `http://localhost:8501` in your browser
 
----
+
 
 ## 📌 To-Do (Contributions Welcome)
 
@@ -72,7 +72,7 @@ Insighta is a Streamlit-powered web app that converts YouTube videos into clean,
 
  - Timeline-wise note segmentation
 
----
+
 
 ## 🤝 Contributing
 ### Contributions are welcome!
